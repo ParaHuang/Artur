@@ -1,0 +1,10 @@
+add left f
+add left -
+add left i
+remove right
+add right B
+add right O
+remove right
+add left H
+add right o
+add right b

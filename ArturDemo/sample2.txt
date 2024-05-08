@@ -1,0 +1,6 @@
+Alice 5
+Bob 4
+Bob 7
+Carol 4
+Bob 1
+Alice 8
